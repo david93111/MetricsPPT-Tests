@@ -1,0 +1,10 @@
+{
+  "simulation": "com.here.hdoperationanalytics.performance.LoadTests",
+  "simulationId": "loadtests",
+  "start": 1557182756483,
+  "description": "",
+  "scenarios": ["EarthScape"],
+  "assertions": [
+
+  ]
+}
